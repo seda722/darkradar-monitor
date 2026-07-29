@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "forum": "HackForum",
+    "title": "Garanti hesap satışı",
+    "content": "Garanti BBVA hesapları satılıktır.",
+    "date": "2026-07-15"
+  },
+  {
+    "id": 2,
+    "forum": "TurkForum",
+    "title": "Trendyol hesap paylaşımı",
+    "content": "Trendyol satıcı hesabı aranıyor.",
+    "date": "2026-07-16"
+  },
+  {
+    "id": 3,
+    "forum": "RaidForums",
+    "title": "Microsoft",
+    "content": "Microsoft hesap bilgileri paylaşıldı.",
+    "date": "2026-07-17"
+  },
+  {
+    "id": 4,
+    "forum": "CyberForum",
+    "title": "Garanti Veri Sızıntısı",
+    "content": "Garanti müşterilerine ait bilgiler konuşuluyor.",
+    "date": "2026-07-18"
+  }
+]
